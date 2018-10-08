@@ -1,7 +1,7 @@
 # AdvancedWebDev
 Using node.js and Express to build a basic website
 
-## The quick
+## Basic overview
 
 1. **node_modules**
     - Don't need to touch these, automatically installed by npm
@@ -16,6 +16,9 @@ Using node.js and Express to build a basic website
 5. **server.js**
     - The fuse of this operation--what makes your server and website function smoothly
 
+## [Download assets from Google Drive](https://drive.google.com/drive/folders/10yYHgyN7cfAwp4-sK2_voybTyn0yDyrP?usp=sharing)
+
 
 ## tl;dr - Browse through this repo to browse a generic filestructure for a basic Node app.
 
+**Questions? Feel free to contact me**
